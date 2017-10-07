@@ -1,6 +1,6 @@
-
-[project & research](project.md), 
-[media coverage](media.md), 
-[awards & honors](media.md), 
-
-
+[About me](project.md), 
+[Project](project.md), 
+[Media Coverage](media.md), 
+[Awards & Honors](media.md),
+[Involvements](media.md),
+[Books & Publications](media.md),
