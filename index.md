@@ -1,2 +1,2 @@
 This is index file
-[link]'\project.md'
+[project](project.md)
