@@ -6,7 +6,7 @@ gems:
 # Site settings
 title: "Kshitij Raj Lohani"
 description: > # this means to ignore newlines until "email:"
-   Person Website of Kshitij Raj Lohani
+   Personal Website of Kshitij Raj Lohani
 
 #email: k[dot]lohani[01]@[google email service provider]
 #blog logo
@@ -34,13 +34,6 @@ twitter_handle: '@kshitij_lohani'
 
 # social icons and sharing options
 social:
-  - icon:	twitter
-    url:	https://twitter.com/kshitij_lohani
-    desc: Follow me on twitter
-    share_url: http://twitter.com/share
-    share_title: ?text=
-    share_link: "&amp;url="
-
   - icon:	facebook
     url:	https://www.facebook.com/kshitij.lohani
     desc: Connect with me facebook
@@ -48,16 +41,23 @@ social:
     share_title: ?t=
     share_link: "&amp;u="
 
+  - icon:	twitter
+    url:	https://twitter.com/kshitij_lohani
+    desc: Follow me on twitter
+    share_url: http://twitter.com/share
+    share_title: ?text=
+    share_link: "&amp;url="
+
+  - icon:	youtube
+    url:	https://www.youtube.com/channel/UCIPTTIR6OEa8wAdABoEj3zg
+    desc: Subscribe my channel
+    share_url: http://twitter.com/share
+    share_title: ?text=
+    share_link: "&amp;url="
+
   - icon:	github
     url:	https://github.com/kshitijlohani
     desc:	Fork me on github
     share_url:
     share_title:
     share_link:
-
-#  - icon:	google-plus
-#    url:	https://google.com/???
-#    desc:	Add me on google+
-#    share_url:
-#    share_title:
-#    share_link:
