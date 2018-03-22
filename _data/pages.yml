@@ -1,0 +1,19 @@
+about-me:
+ title: About me
+ url:	/about-me/
+
+projects:
+ title: Projects
+ url:	/projects/
+
+media-coverage:
+ title: Media Coverage
+ url:	/media-coverage/
+
+blog:
+ title: Blog
+ url:	/blog/
+
+awards:
+ title: Awards
+ url:	/awards/

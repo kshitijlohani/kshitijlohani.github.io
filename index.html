@@ -24,10 +24,10 @@ layout: default
     </div>
             &nbsp;&nbsp;·&nbsp;&nbsp;
     <div class="custom-links">
-      <a href={{ "/about/" | prepend: site.baseurl }}>About me |</a>
-      <a href={{ "/about/" | prepend: site.baseurl }}>Projects |</a>
-      <a href={{ "/about/" | prepend: site.baseurl }}>Media mentions |</a>
-      <a href={{ "/about/" | prepend: site.baseurl }}>Blog |</a>
-      <a href={{ "/about/" | prepend: site.baseurl }}>Awards |</a>
+      <a href={{ site.data.pages.about-me.url }}>{{site.data.pages.about-me.title}} |</a>
+      <a href={{ site.data.pages.projects.url }}>{{site.data.pages.projects.title}} |</a>
+      <a href={{ site.data.pages.media-coverage.url }}>{{site.data.pages.media-coverage.title}} |</a>
+      <a href={{ site.data.pages.blog.url }}>{{site.data.pages.blog.title}} |</a>
+      <a href={{ site.data.pages.awards.url }}>{{site.data.pages.awards.title}} |</a>
     </div>
 </header>
