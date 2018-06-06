@@ -1,6 +1,6 @@
 Kshitij Raj Lohani
 ========
-This is my person website.
+This is my personal website.
 
 Credit
 -------
