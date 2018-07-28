@@ -10,6 +10,9 @@ projects:
  speakly:
    title: Speakly
    url: /projects/speakly/
+ krinjal-space:
+   title: Krinjal space
+   url: /projects/krinjal-space
 
 media-coverage:
  title: Media Coverage
@@ -22,3 +25,12 @@ blog:
 awards:
  title: Awards
  url:	/awards/
+ national-youth-award:
+    title: National Youth Award
+    url:	/awards/national-youth-award
+ trustee-scholar:
+    title: Trustee Scholar
+    url:	/awards/trustee-scholar
+ youth-innovation-award:
+    title: Youth Innovation Award
+    url:	/awards/youth-innovation-award
