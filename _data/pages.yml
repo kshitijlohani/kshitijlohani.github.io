@@ -1,10 +1,15 @@
+# title is shown in the page
+
 about-me:
  title: About me
- url:	/about-me/
+ url:	/about-mes/
 
 projects:
  title: Projects
  url:	/projects/
+ speakly:
+   title: Speakly
+   url: /projects/speakly/
 
 media-coverage:
  title: Media Coverage
