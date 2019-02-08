@@ -1,0 +1,55 @@
+---
+---
+
+<!DOCTYPE html>
+<html>
+
+{% include head.html %}
+
+<body>
+
+  {% include header.html %}
+  <div class="page-content">
+    <div class="wrapper blog-header">
+      <a href="/">Org Home</a>
+
+      <h1 class="blog-title">Shikshya-Dikshya</h1>
+      <br>
+      <p align="center">
+        'Shikshya-Dikshya' is an online 100 sec show, where a deserving candidate gets help from a donor. thats it.
+      </p>
+      <br>
+      <p>
+        {{ content }}
+      </p>
+
+      <br>
+
+      <div class="custom-links">
+        <a href={{ site.data.pages.projects.shikshya-dikshya.faq.url }}>{{site.data.pages.projects.shikshya-dikshya.faq.title}} |</a>
+        <a href={{ site.data.pages.projects.shikshya-dikshya.episodes.url }}>{{site.data.pages.projects.shikshya-dikshya.episodes.title}} |</a>
+        <a href={{ site.data.pages.projects.shikshya-dikshya.help-database.url }}>{{site.data.pages.projects.shikshya-dikshya.help-database.title}} |</a>
+        <a href={{ site.data.pages.projects.shikshya-dikshya.know-someone-in-need.url }}>{{site.data.pages.projects.shikshya-dikshya.know-someone-in-need.title}} |</a>
+        <a href={{ site.data.pages.projects.shikshya-dikshya.want-to-help.url }}>{{site.data.pages.projects.shikshya-dikshya.want-to-help.title}} |</a>
+        <a href={{ site.data.pages.contact.url }}>{{site.data.pages.contact.title}}</a>
+      </div>
+
+      <div class="custom-links">
+        {% for social in site.social %}
+        {% if social.url %}
+        <a class="icon-{{ social.icon }}" href="{{ social.url }}" {% if social.desc %} title="{{ social.desc }}" {% endif %}">
+          <i class="fa fa-{{ social.icon }}"></i>
+        </a>
+        &nbsp;&nbsp;·&nbsp;&nbsp;
+        {% endif %}
+        {% endfor %}
+      </div>
+    </div>
+  </div>
+
+  {% include footer.html %}
+  {% include javascripts.html %}
+
+</body>
+
+</html>

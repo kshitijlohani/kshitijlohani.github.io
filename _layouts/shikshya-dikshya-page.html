@@ -1,0 +1,30 @@
+---
+---
+<!DOCTYPE html>
+<html>
+{% include head.html %}
+
+<body itemscope itemtype="http://schema.org/Article">
+  {% include header.html %}
+  <main class="content" role="main">
+    <article class="post">
+      <a href="/">Org Home</a> | <a href="/shikshya-dikshya/">Project Home</a>
+      <div class="noarticleimage">
+        <div class="post-meta">
+          <h1 class="post-title">{{ page.title }}</h1>
+        </div>
+      </div>
+      <br>
+      <br>
+      <br>
+
+      <section class="post-content">
+        <a name="topofpage"></a>
+        {{content}}
+      </section>
+    </article>
+  </main>
+  {% include javascripts.html %}
+</body>
+
+</html>

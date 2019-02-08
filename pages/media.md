@@ -1,5 +1,5 @@
 ---
 layout: page
 title: Media
-permalink: /media/
+permalink: /media-coverage/
 ---

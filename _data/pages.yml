@@ -1,22 +1,38 @@
 # title is shown in the page
 
-about-me:
- title: About me
- url:	/about-me/
+about:
+ title: About
+ url:	/about/
 
 projects:
  title: Projects
  url:	/projects/
- speakly:
-   title: Speakly
-   url: /projects/speakly/
- krinjal-space:
-   title: Krinjal space
-   url: /projects/krinjal-space
+ shikshya-dikshya:
+   title: Shikshya-dikshya
+   url: /shikshya-dikshya/
+   help-database:
+     title: Help database
+     url : /shikshya-dikshya/help-database/
+   know-someone-in-need:
+     title: Know someone in need?
+     url: /shikshya-dikshya/know-someone-in-need/
+   want-to-help:
+     title: want to Help
+     url: /shikshya-dikshya/want-to-help/
+   episodes:
+     title: Episodes
+     url: /shikshya-dikshya/episodes/
+   faq:
+     title: FAQ
+     url: /shikshya-dikshya/faq/
 
 media-coverage:
  title: Media Coverage
  url:	/media-coverage/
+ saptahik:
+  title: saptahik
+  url: /media-coverage/newspaper/saptahik
+  label: kkknfksknnlwes
 
 blog:
  title: Blog

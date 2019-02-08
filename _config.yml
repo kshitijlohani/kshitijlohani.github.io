@@ -10,7 +10,7 @@ description: > # this means to ignore newlines until "email:"
 
 #email: k[dot]lohani[01]@[google email service provider]
 #blog logo
-logo: "/assets/images/kshitij_profile_pic.jpg"
+logo: "/assets/images/kshitij_profile_pic_sf_gbridge.jpg"
 float_logo: true # true, false (default)
 
 # blog cover
