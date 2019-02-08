@@ -22,7 +22,7 @@ author_image: "/assets/images/kshitij_profile_pic.jpg"
 
 paginate:	5
 
-url: "http://myblog.***.***" # the base hostname & protocol for your site
+url: "https:kshitijlohani.com" # the base hostname & protocol for your site
 baseurl: ""
 #used to display twitter cards
 twitter_handle: '@kshitij_lohani'
