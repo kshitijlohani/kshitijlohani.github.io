@@ -50,3 +50,7 @@ awards:
  youth-innovation-award:
     title: Youth Innovation Award
     url:	/awards/youth-innovation-award
+
+professional:
+ title: professional
+ url: /professional/

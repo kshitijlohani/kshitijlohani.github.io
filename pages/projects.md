@@ -11,6 +11,12 @@ more info @ [project homepage]({{site.data.pages.projects.shikshya-dikshya.url}}
 
 ---
 
+> **Biswash (status : coming soon)**
+
+I have a habit of keeping things secret till it gets started. So for now, can't say anything about this.
+
+---
+
 > **Krinjal Space (status : completed)**
 
 Made a device that sent Nepal's flag to 'Edge of the space' and played National anthem over there.
