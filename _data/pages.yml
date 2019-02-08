@@ -1,8 +1,8 @@
 # title is shown in the page
 
-about:
- title: About
- url:	/about/
+about-me:
+ title: About me
+ url:	/about-me/
 
 projects:
  title: Projects
