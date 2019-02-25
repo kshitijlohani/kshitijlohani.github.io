@@ -24,6 +24,7 @@ paginate:	5
 
 url: "https:kshitijlohani.com" # the base hostname & protocol for your site
 baseurl: ""
+imageurl: "/assets/images"
 #used to display twitter cards
 twitter_handle: '@kshitij_lohani'
 
