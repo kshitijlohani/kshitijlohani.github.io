@@ -6,7 +6,13 @@ permalink: /shikshya-dikshya/faq/
 
 **What is Shikshya-Dikshya**
 
-> 'Shikshya-Dikshya' is an online 100 sec show, where a deserving candidate gets help from a donor. thats it.
+> 'Shikshya-Dikshya' is an online 100 sec show, where a deserving candidate with financial difficulty gets help from a donor to move ahead in life. Thats it.
+
+**Why this name**
+
+> 'Shikshya' means education and 'Dikshya' means enlightening someone.
+> Also, this project is a tribute to someone who came to my life when i was in the worst phase of my life. That person uplifted my life and made me who i am today. I owe my happiness and success to that person. Thank you.
+
 
 **Why am i doing this**
 
@@ -31,11 +37,6 @@ permalink: /shikshya-dikshya/faq/
 profile as requested by donors).
 > Now, we forward the receivers profile to donors and get their confirmation. Once, we receive the confirmation; BOOM - we shoot video, provide help to receiver, release the video and update every detail about the process in website.
 > But it does not end here, receivers are required to provide update for a year (in 3 months interval). This is to ensure, the 'help' received is used for the right purpose.
-
-
-**Where i got inspiration for the show's format**
-
-> its 'nas-daily' meets 'satyamev jayate'
 
 **How to i get Donors**
 
