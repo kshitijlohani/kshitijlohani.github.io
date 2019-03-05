@@ -11,7 +11,7 @@ more info @ [project homepage]({{site.data.pages.projects.shikshya-dikshya.url}}
 
 ---
 
-> **Biswash (status : coming soon)**
+> ** something something (status : coming soon)**
 
 I have a habit of keeping things secret till it gets started. So for now, can't say anything about this.
 
@@ -21,6 +21,8 @@ I have a habit of keeping things secret till it gets started. So for now, can't 
 
 Made a device that sent Nepal's flag to 'Edge of the space' and played National anthem over there.
 
+more info @ [project homepage]({{site.data.pages.projects.krinjal-space.url}})
+
 ---
 
 > **Glassophobia (status : completed)**
@@ -28,3 +30,5 @@ Made a device that sent Nepal's flag to 'Edge of the space' and played National 
 Made a connected gadget system using google glass and samsung galaxy gear watch to help people deliver a better public speech by reducing their fear@
 
 ---
+
+todo: tyo google drive ma bhako sabai project haru ya halnu chadai

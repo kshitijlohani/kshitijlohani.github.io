@@ -7,6 +7,9 @@ about-me:
 projects:
  title: Projects
  url:	/projects/
+ krinjal-space:
+   title: Krinjal-space
+   url: /krinjal-space/
  shikshya-dikshya:
    title: Shikshya-dikshya
    url: /shikshya-dikshya/
