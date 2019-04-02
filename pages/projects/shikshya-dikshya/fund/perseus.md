@@ -19,4 +19,4 @@ Perseus is first child (one of the cutest child ever) of Prajwol And Nisha. They
 
 **Receipients**
 
-> 2019 : Angila Diyali and Sanjaya Tamang through [episode 1](../../episodes/01)
+> 2019 : Saugant Wagle [episode 4](../../episodes/04)
