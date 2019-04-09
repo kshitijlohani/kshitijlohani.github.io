@@ -7,3 +7,4 @@ permalink: /shikshya-dikshya/episodes/
 * [Episode 02](../episodes/02)
 * [Episode 03](../episodes/03)
 * [Episode 04](../episodes/04)
+* [Episode 05](../episodes/05)
