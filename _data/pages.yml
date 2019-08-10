@@ -28,7 +28,9 @@ projects:
    faq:
      title: FAQ
      url: /shikshya-dikshya/faq/
-
+   team:
+    title: Team
+    url: /shikshya-dikshya/team
 media-coverage:
  title: Media Coverage
  url:	/media-coverage/
