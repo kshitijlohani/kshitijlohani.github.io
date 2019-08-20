@@ -16,14 +16,27 @@ Significance : 'National Youth Award' is the biggest honor given my Government o
 
 ---
 
-> **Trustee Scholar**
+> **Dintinguished Youth Speaker**
 
-Date : August 12, 2014
+Date : August 10, 2019
 
-Given By : Northeastern University
+Given By : UN Friendship Ambassador @ Youth Assembly
 
-Significance : Trustee Scholar is the highest honor undergrad scholarship given by Northeastern University to its incoming class.
-It includes 100% free tuition, room and board. Its a full ride. It's awarded to top 1% of incoming class.
+Significance : "Each session of The Youth Assembly, highly distinguished Youth Delegates are nominated from the Outstanding Youth Delegate candidate pool to serve as speakers at conference sessions. Distinguished Youth Speakers can share their work, ideas, and policy recommendations on their field of expertise." - Youth Assembly Team
+
+![](../assets/images/ya-ml.png)
+
+---
+
+> **Impact Challenge Finalist**
+
+Date : August 10, 2019
+
+Given By : UN Friendship Ambassador @ Youth Assembly
+
+Significance : My idea got selected as the 'TOP 10' idea among the entire world. Applicants from all over the world submitted their idea related to Sustainable Development Goals.
+
+![](../assets/images/ya-ic.png)
 
 ---
 
@@ -40,6 +53,22 @@ Significance : UsNepalOnline awards 'Youth Recognition Award' to one youth annua
 
 > **National memorization record holder**
 
-todo : tyo nepal telvision wala video chadai khojnu paryo for this
+Date : January 26, 2015
 
-todo: ani certificate file ma bhako aru award pani scan garera ya halnu parnecha
+Given By : National Academy of Science and Technology, Maharsi Vedic Science and Technology
+
+Significance : Previous National record before this was 90 words. i remembered 125 words by listening them only once.
+
+![](../assets/images/memory-certificate.png)
+
+
+> **Trustee Scholar**
+
+Date : August 12, 2014
+
+Given By : Northeastern University
+
+Significance : Trustee Scholar is the highest honor undergrad scholarship given by Northeastern University to its incoming class.
+It includes 100% free tuition, room and board. Its a full ride. It's awarded to top 1% of incoming class.
+
+---
