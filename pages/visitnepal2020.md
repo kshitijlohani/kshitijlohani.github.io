@@ -19,6 +19,6 @@ this is a video challenge where you have to do three things,
 
 Here is my video of the challenge;
 
-<embed src="https://www.youtube.com/embed/7Y1iNIiYb8g" width="600" height="320" controller="true">
+[click here to see video of my challenge](https://www.facebook.com/kshitij.lohani/videos/vb.1210477270/10215573884679459)
 
 you can contact me via [facebook](https://www.facebook.com/kshitij.lohani) or my email k.lohani01@gmail.com
