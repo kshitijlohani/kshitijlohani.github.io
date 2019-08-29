@@ -4,5 +4,3 @@ title: Database
 permalink: /shikshya-dikshya/help-database/
 ---
 just started this website, so give me few days to update.
-
-akela mai kya kya karun :(
