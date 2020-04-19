@@ -4,15 +4,10 @@ title: Team
 permalink: /shikshya-dikshya/team/
 ---
 
-Actually its just me. yup.
+Founder [Kshitij Raj Lohani](https://kshitijlohani.com)
 
-However, Shikshya-Dikshya is not possible without the help of following people
+Project Lead [Aashish Lamichanne](https://www.facebook.com/LcAashish)
 
+Shikshya Dikshya is a project of Krinjal. Thus, everyone from [Krinjal](https://krinjal.org) is in the team too.
 
-**Aarju Lohani**
-
-> [Aarju](https://www.facebook.com/aarju.lohani.7) handles everything related to receiver for every episode. From coordinating to give help amount to receiver to making sure the help gets in the right thing, everything goes through her. She constantly provides ideas to improve the video. And mainly, she plays the role of critics, who always keeps me in check in terms of handling the process smoothly.
-
-**Dikshya Dhakal**
-
-About Diku
+if you want to join us, [fill this form](https://docs.google.com/forms/d/13QI1Qm-F-ybQHnDEFEKkMbOlYKdmYAdxG5E2BC_YPX4)
