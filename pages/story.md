@@ -17,13 +17,23 @@ Here are few informations
 
 ## How to pay
 
-in Nepal
+#### in Nepal
 
 > esewa : 98601-57770
 
-rest of the world:
+#### rest of the world:
 
 > paypal: http://paypal.me/kshitij
 
 > venmo : https://venmo.com/kshitij
+
 > zelle : contact me for my phone number
+
+## Content
+
+I am still thinking of what kind of content i can provide to you to make it fun and informative. So i am open to suggestions. Please let me know.
+I really want to give you content worth $100 for your $1. So please let me know what you want to see.
+
+## How it works
+
+In Instagram i will create "Premius Subcription" group and i will post the premium cotent to the members of this group.
