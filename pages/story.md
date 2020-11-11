@@ -17,6 +17,8 @@ Here are few informations
 
 ## How to pay
 
+When you pay, please put your name in the message in the app you will use to pay. This way i know, who paid.
+
 #### in Nepal
 
 > esewa : 98601-57770
